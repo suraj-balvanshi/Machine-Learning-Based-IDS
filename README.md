@@ -44,6 +44,6 @@ FOR MORE INFO GO THROUGH DOCUMENTATION ""
 
 Contributers Names:
 Ashutosh Bist https://github.com/AshutoshBist
-Hrithik Gaikwad
-Prof. Yash Shah
+Hrithik Gaikwad https://github.com/Hr09
+Prof. Yash Shah https://github.com/yash1234shah
 
